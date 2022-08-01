@@ -1,4 +1,4 @@
-package br.com.condicoes;
+package br.com.condicoesIFElse;
 
 import java.util.Scanner;
 
